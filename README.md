@@ -5,4 +5,5 @@ Skrypt w języku PowerShell został stworzony w celu sprawdzania dostępności p
 * Terminalowa
 * Z interfejsem graficznym
 
-Skrypt został stworzony dla Centrum Usług Informatycznych w Białymstoku przez Paulinę Gołąbiewska oraz Justynę Maksimowicz.
+> [!NOTE]
+> Skrypt został stworzony dla **Centrum Usług Informatycznych w Białymstoku** przez **Paulinę Gołąbiewska oraz Justynę Maksimowicz**.
